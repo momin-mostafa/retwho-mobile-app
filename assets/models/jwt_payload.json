@@ -1,0 +1,22 @@
+{
+    "_id": "62f767353d4c49e612ca21d9",
+    "shop": "6309a136f65b89e2135d41ab",
+    "role": "wholeseller",
+    "iss": "https://securetoken.google.com/aizafgroup",
+    "aud": "aizafgroup",
+    "auth_time": 1661946312,
+    "user_id": "cU6Zf446PwVggrsdCSj3hMcF8jH3",
+    "sub": "cU6Zf446PwVggrsdCSj3hMcF8jH3",
+    "iat": 1661946312,
+    "exp": 1661949912,
+    "email": "wholesaler@example.com",
+    "email_verified": false,
+    "firebase": {
+        "identities": {
+            "email": [
+                "wholesaler@example.com"
+            ]
+        },
+        "sign_in_provider": "password"
+    }
+}

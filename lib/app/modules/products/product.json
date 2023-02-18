@@ -1,0 +1,333 @@
+{
+    "products": [
+        {
+            "_id": "631188946cfb6c31a8235cea",
+            "user": "62f767353d4c49e612ca21d9",
+            "productName": "W Product Bulk 2",
+            "department": {
+                "name": "W Department 1",
+                "id": "631187ee6cfb6c31a8235cce"
+            },
+            "shop": {
+                "name": "W Name 1",
+                "id": "631187306cfb6c31a8235bf2"
+            },
+            "uniqueCode": "poiuytre",
+            "tags": [
+                "hello",
+                "hello again"
+            ],
+            "quantity": 10,
+            "status": "acitve",
+            "tax": 0,
+            "createdAt": "2022-09-02T04:37:40.058Z",
+            "updatedAt": "2022-09-02T04:37:40.058Z",
+            "prices": {
+                "basic": 5,
+                "standard": 7,
+                "premium": 8
+            },
+            "productOffer": {
+                "basic": [
+                    {
+                        "quantity": 2,
+                        "price": 10,
+                        "_id": "631188946cfb6c31a8235ceb"
+                    },
+                    {
+                        "quantity": 6,
+                        "price": 20,
+                        "_id": "631188946cfb6c31a8235cec"
+                    }
+                ],
+                "standard": [
+                    {
+                        "quantity": 3,
+                        "price": 10,
+                        "_id": "631188946cfb6c31a8235ced"
+                    }
+                ],
+                "premium": [
+                    {
+                        "quantity": 3,
+                        "price": 40,
+                        "_id": "631188946cfb6c31a8235cee"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "631188946cfb6c31a8235cef",
+            "user": "62f767353d4c49e612ca21d9",
+            "productName": "W Product Bulk 3",
+            "department": {
+                "name": "W Department 1",
+                "id": "631187ee6cfb6c31a8235cce"
+            },
+            "shop": {
+                "name": "W Name 1",
+                "id": "631187306cfb6c31a8235bf2"
+            },
+            "uniqueCode": "poiuytre",
+            "tags": [
+                "hello",
+                "hello again"
+            ],
+            "quantity": 10,
+            "status": "acitve",
+            "tax": 0,
+            "createdAt": "2022-09-02T04:37:40.058Z",
+            "updatedAt": "2022-09-02T04:37:40.058Z",
+            "prices": {
+                "basic": 5,
+                "standard": 7,
+                "premium": 8
+            },
+            "productOffer": {
+                "basic": [
+                    {
+                        "quantity": 2,
+                        "price": 10,
+                        "_id": "631188946cfb6c31a8235cf0"
+                    },
+                    {
+                        "quantity": 6,
+                        "price": 20,
+                        "_id": "631188946cfb6c31a8235cf1"
+                    }
+                ],
+                "standard": [
+                    {
+                        "quantity": 3,
+                        "price": 10,
+                        "_id": "631188946cfb6c31a8235cf2"
+                    }
+                ],
+                "premium": [
+                    {
+                        "quantity": 3,
+                        "price": 40,
+                        "_id": "631188946cfb6c31a8235cf3"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "631188946cfb6c31a8235ce5",
+            "user": "62f767353d4c49e612ca21d9",
+            "productName": "W Product Bulk 1",
+            "department": {
+                "name": "W Department 1",
+                "id": "631187ee6cfb6c31a8235cce"
+            },
+            "shop": {
+                "name": "W Name 1",
+                "id": "631187306cfb6c31a8235bf2"
+            },
+            "uniqueCode": "poiuytre",
+            "tags": [
+                "hello",
+                "hello again"
+            ],
+            "quantity": 10,
+            "status": "acitve",
+            "tax": 0,
+            "createdAt": "2022-09-02T04:37:40.058Z",
+            "updatedAt": "2022-09-02T04:37:40.058Z",
+            "prices": {
+                "basic": 5,
+                "standard": 7,
+                "premium": 8
+            },
+            "productOffer": {
+                "basic": [
+                    {
+                        "quantity": 2,
+                        "price": 10,
+                        "_id": "631188946cfb6c31a8235ce6"
+                    },
+                    {
+                        "quantity": 6,
+                        "price": 20,
+                        "_id": "631188946cfb6c31a8235ce7"
+                    }
+                ],
+                "standard": [
+                    {
+                        "quantity": 3,
+                        "price": 10,
+                        "_id": "631188946cfb6c31a8235ce8"
+                    }
+                ],
+                "premium": [
+                    {
+                        "quantity": 3,
+                        "price": 40,
+                        "_id": "631188946cfb6c31a8235ce9"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "6313896bf53964a61e447dcf",
+            "user": "62f767e03d4c49e612ca21df",
+            "productName": "Retailer Product 2569",
+            "department": {
+                "name": "retailer department",
+                "id": "6309b208f65b89e2135d4299"
+            },
+            "shop": {
+                "name": "Retailer Shop 1",
+                "id": "6309afc7f65b89e2135d426b",
+                "susbcribers": {
+                    "user": "62f767353d4c49e612ca21d9",
+                    "subscription": "basic",
+                    "_id": "63138ac9f53964a61e447dee"
+                }
+            },
+            "uniqueCode": "99665",
+            "tags": [],
+            "quantity": 500,
+            "status": "true",
+            "tax": 30,
+            "createdAt": "2022-09-03T17:05:48.163Z",
+            "updatedAt": "2022-09-03T17:05:48.163Z",
+            "prices": {
+                "basic": 50
+            },
+            "productOffer": {
+                "basic": [
+                    {
+                        "quantity": 2,
+                        "price": 80,
+                        "_id": "6313896bf53964a61e447dd0"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "631467086dde2206d89df607",
+            "user": "62f767353d4c49e612ca21d9",
+            "productName": "Demo product 1",
+            "department": {
+                "name": "W Department 1",
+                "id": "631187ee6cfb6c31a8235cce"
+            },
+            "shop": {
+                "name": "W Name 1",
+                "id": "631187306cfb6c31a8235bf2"
+            },
+            "uniqueCode": "ddddddddddd",
+            "tags": [
+                null
+            ],
+            "quantity": 20,
+            "status": "active",
+            "tax": null,
+            "createdAt": "2022-09-04T08:51:20.179Z",
+            "updatedAt": "2022-09-04T08:51:20.179Z",
+            "prices": {
+                "basic": 66,
+                "standard": 56,
+                "premium": 45
+            },
+            "productOffer": {
+                "basic": [
+                    {
+                        "quantity": 20,
+                        "price": 19.99,
+                        "_id": "631467086dde2206d89df608"
+                    }
+                ],
+                "standard": [
+                    {
+                        "quantity": 20,
+                        "price": 17.3,
+                        "_id": "631467086dde2206d89df609"
+                    }
+                ],
+                "premium": [
+                    {
+                        "quantity": 20,
+                        "price": 16.25,
+                        "_id": "631467086dde2206d89df60a"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "631467376dde2206d89df618",
+            "user": "62f767353d4c49e612ca21d9",
+            "productName": "Demo product 2",
+            "department": {
+                "name": "W Department 1",
+                "id": "631187ee6cfb6c31a8235cce"
+            },
+            "shop": {
+                "name": "W Name 1",
+                "id": "631187306cfb6c31a8235bf2"
+            },
+            "uniqueCode": "fffffffffffffffffffffffff",
+            "tags": [
+                null
+            ],
+            "quantity": -20,
+            "status": "active",
+            "tax": null,
+            "createdAt": "2022-09-04T08:52:07.200Z",
+            "updatedAt": "2022-09-05T06:16:22.778Z",
+            "prices": {
+                "basic": 100,
+                "standard": 90,
+                "premium": 80
+            },
+            "productOffer": {
+                "basic": [
+                    {
+                        "quantity": 20,
+                        "price": 19.99,
+                        "_id": "631467376dde2206d89df619"
+                    }
+                ],
+                "standard": [
+                    {
+                        "quantity": 20,
+                        "price": 17.3,
+                        "_id": "631467376dde2206d89df61a"
+                    }
+                ],
+                "premium": [
+                    {
+                        "quantity": 20,
+                        "price": 16.25,
+                        "_id": "631467376dde2206d89df61b"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": "6315776875fc896b6df55f4f",
+            "user": "62e79908844da5524b39e2cb",
+            "productName": "Wholeseller Product 22",
+            "department": {
+                "name": "W Department 22",
+                "id": "6315773475fc896b6df55f3b"
+            },
+            "shop": {
+                "name": "W Name 2",
+                "id": "6315771a75fc896b6df55f29"
+            },
+            "uniqueCode": "asdgaefgae",
+            "tags": [
+                null
+            ],
+            "quantity": 70,
+            "status": "active",
+            "tax": null,
+            "createdAt": "2022-09-05T04:13:28.337Z",
+            "updatedAt": "2022-09-05T06:16:22.777Z",
+            "prices": {},
+            "productOffer": {}
+        }
+    ]
+}

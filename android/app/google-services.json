@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255571021589",
+    "project_id": "aizafgroup",
+    "storage_bucket": "aizafgroup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255571021589:android:959cf954e11a7cdeb6631c",
+        "android_client_info": {
+          "package_name": "com.retwho.retwho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255571021589-usvbtv42ho6rkn7nrhn4uoidpflfc4u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAypbzRUBdda73CYP1z6x7CXShzoQ7zE6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255571021589-usvbtv42ho6rkn7nrhn4uoidpflfc4u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

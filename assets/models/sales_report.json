@@ -1,0 +1,151 @@
+{
+    "saleReport": [
+        {
+            "_id": "62de885363fd2a54b2a19438",
+            "items": [
+                {
+                    "product": "62dbf54968b8f287fc911c06",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de885363fd2a54b2a19439"
+                }
+            ],
+            "user": "62e79908844da5524b39e2cb",
+            "net_total": 16,
+            "shipping_status": "pending",
+            "payment_status": "pending",
+            "createdAt": "2022-07-25T12:10:59.095Z",
+            "updatedAt": "2022-07-25T12:10:59.095Z",
+            "__v": 0
+        },
+        {
+            "_id": "62de3f429c5e4c460b37769b",
+            "items": [
+                {
+                    "product": "62dbf54968b8f287fc911c06",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de3f429c5e4c460b37769c"
+                }
+            ],
+            "user": "62e79908844da5524b39e2cb",
+            "net_total": 16,
+            "shipping_status": "pending",
+            "payment_status": "pending",
+            "createdAt": "2022-07-25T06:59:14.970Z",
+            "updatedAt": "2022-07-25T06:59:14.970Z",
+            "__v": 0
+        },
+        {
+            "_id": "62de3f2399eb8cfe3e710bb4",
+            "items": [
+                {
+                    "product": "62dbf54968b8f287fc911c06",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de3f2399eb8cfe3e710bb5"
+                }
+            ],
+            "user": "62e79908844da5524b39e2cb",
+            "net_total": 16,
+            "shipping_status": "pending",
+            "payment_status": "pending",
+            "createdAt": "2022-07-25T06:58:43.350Z",
+            "updatedAt": "2022-07-25T06:58:43.350Z",
+            "__v": 0
+        },
+        {
+            "_id": "62de3ec306d2d8cce75dd8e3",
+            "items": [
+                {
+                    "product": "62dbf54968b8f287fc911c06",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de3ec306d2d8cce75dd8e4"
+                }
+            ],
+            "user": "62e79908844da5524b39e2cb",
+            "net_total": 16,
+            "shipping_status": "pending",
+            "payment_status": "pending",
+            "createdAt": "2022-07-25T06:57:07.309Z",
+            "updatedAt": "2022-07-25T06:57:07.309Z",
+            "__v": 0
+        },
+        {
+            "_id": "62de3eb49c8e0d9a53f19936",
+            "items": [
+                {
+                    "product": "62d8e1788f502dac20990077",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de3eb49c8e0d9a53f19937"
+                },
+                {
+                    "product": "62dbf54968b8f287fc911c06",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de3eb49c8e0d9a53f19938"
+                }
+            ],
+            "user": "62e79908844da5524b39e2cb",
+            "net_total": 32,
+            "shipping_status": "pending",
+            "payment_status": "pending",
+            "createdAt": "2022-07-25T06:56:52.100Z",
+            "updatedAt": "2022-07-25T06:56:52.100Z",
+            "__v": 0
+        },
+        {
+            "_id": "62de3c7bcb910a4ed766b07d",
+            "items": [
+                {
+                    "product": "62d8e1788f502dac20990077",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de3c7bcb910a4ed766b07e"
+                },
+                {
+                    "product": "62dbf54968b8f287fc911c06",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de3c7bcb910a4ed766b07f"
+                }
+            ],
+            "user": "62e79908844da5524b39e2cb",
+            "net_total": 32,
+            "shipping_status": "pending",
+            "payment_status": "pending",
+            "createdAt": "2022-07-25T06:47:23.752Z",
+            "updatedAt": "2022-07-25T06:47:23.752Z",
+            "__v": 0
+        },
+        {
+            "_id": "62de3c62cb910a4ed766b076",
+            "items": [
+                {
+                    "product": "62d8e1788f502dac20990077",
+                    "quantity": 2,
+                    "price": 8,
+                    "total": 16,
+                    "_id": "62de3c62cb910a4ed766b077"
+                }
+            ],
+            "user": "62e79908844da5524b39e2cb",
+            "net_total": 16,
+            "shipping_status": "pending",
+            "payment_status": "pending",
+            "createdAt": "2022-07-25T06:46:58.102Z",
+            "updatedAt": "2022-07-25T06:46:58.102Z",
+            "__v": 0
+        }
+    ]
+}

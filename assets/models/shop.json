@@ -1,0 +1,22 @@
+{
+    "_id": "6309a136f65b89e2135d41ab",
+    "user": "62f767353d4c49e612ca21d9",
+    "city": "Dhaka",
+    "companyEmail": "wemail1@gmail.com",
+    "companyName": "W Company 1",
+    "companyPhone": "1111111111111111",
+    "country": "Bangladesh",
+    "email": "wholesaler@example.com",
+    "name": "W Name 1",
+    "postalCode": "1230",
+    "state_province_region": "Dhaka",
+    "streetAddress": "Uttara, Dhaka",
+    "createdAt": "2022-08-27T04:44:38.725Z",
+    "updatedAt": "2022-08-31T09:43:49.683Z",
+    "__v": 0,
+    "role": "wholeseller",
+    "susbcribers": {
+        "user": "62f767e03d4c49e612ca21df",
+        "_id": "63054592eb64c2d718f0319b"
+    }
+}

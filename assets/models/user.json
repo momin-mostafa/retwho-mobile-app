@@ -1,0 +1,22 @@
+{
+    "_id": "62f767e03d4c49e612ca21df",
+    "agree": true,
+    "city": "Dhaka",
+    "companyEmail": "retailer@example.com",
+    "companyName": "toto",
+    "companyPhone": "1223345",
+    "country": "Bangladesh",
+    "email": "retailer@example.com",
+    "feinCode": "542346",
+    "license": "http://res.cloudinary.com/retwho/image/upload/v1660381153/z0ljhaot5qyvieymo82w.png",
+    "name": "Aizaf Retailer",
+    "postalCode": "bangladesh",
+    "state_province_region": "KJDDJKL",
+    "streetAddress": "21/1 H Block, Mirpur-2, Dhaka",
+    "feinCopy": "http://res.cloudinary.com/retwho/image/upload/v1660381153/ft1ewcysd3tsackrunr7.png",
+    "resalecert": "http://res.cloudinary.com/retwho/image/upload/v1660381154/wqa45t0opcmkcvenrues.png",
+    "role": "retailer",
+    "createdAt": "2022-08-13T08:59:14.416Z",
+    "updatedAt": "2022-08-13T08:59:14.416Z",
+    "__v": 0
+}

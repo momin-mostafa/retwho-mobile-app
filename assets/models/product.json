@@ -1,0 +1,56 @@
+{
+    "_id": "631188946cfb6c31a8235cea",
+    "user": "62f767353d4c49e612ca21d9",
+    "productName": "W Product Bulk 2",
+    "department": {
+        "name": "W Department 1",
+        "id": "631187ee6cfb6c31a8235cce"
+    },
+    "shop": {
+        "name": "W Name 1",
+        "id": "631187306cfb6c31a8235bf2"
+    },
+    "uniqueCode": "poiuytre",
+    "tags": [
+        "hello",
+        "hello again"
+    ],
+    "quantity": 10,
+    "status": "acitve",
+    "tax": 0,
+    "createdAt": "2022-09-02T04:37:40.058Z",
+    "updatedAt": "2022-09-02T04:37:40.058Z",
+    "prices": {
+        "basic": 5,
+        "standard": 7,
+        "premium": 8
+    },
+    "productOffer": {
+        "basic": [
+            {
+                "quantity": 2,
+                "price": 10,
+                "_id": "631188946cfb6c31a8235ceb"
+            },
+            {
+                "quantity": 6,
+                "price": 20,
+                "_id": "631188946cfb6c31a8235cec"
+            }
+        ],
+        "standard": [
+            {
+                "quantity": 3,
+                "price": 10,
+                "_id": "631188946cfb6c31a8235ced"
+            }
+        ],
+        "premium": [
+            {
+                "quantity": 3,
+                "price": 40,
+                "_id": "631188946cfb6c31a8235cee"
+            }
+        ]
+    }
+}
